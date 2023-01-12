@@ -1,1 +1,4 @@
-# Rock-Parer-Scissors
+# Rock-Paper-Scissors
+
+## Description
+
